@@ -1,6 +1,7 @@
 # elflibviewer
 cmake
 qt5-base
+qt5-tools
 
 # nuovext-icon-theme
 gtk-update-icon-cache
