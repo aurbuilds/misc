@@ -1,0 +1,23 @@
+# elflibviewer
+cmake
+qt5-base
+qt5-tools
+
+# nuovext-icon-theme
+gtk-update-icon-cache
+
+# geany-plugin-editorconfig
+editorconfig-core-c
+geany
+
+# geany-plugin-markdown
+intltool
+vala
+gdb
+cppcheck
+discount
+webkit2gtk
+
+# gtk-theme-glossyblack
+gtk-engine-murrine
+gtk-engines
