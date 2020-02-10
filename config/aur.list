@@ -1,11 +1,16 @@
-archlinux-lxdm-theme-full
 elflibviewer
-nuovext-icon-theme
 geany-plugin-editorconfig
 geany-plugin-markdown
-gtk-theme-glossyblack
 wine-installer-git
 oxipng
+
+# theming
+archlinux-lxdm-theme-full
+nuovext-icon-theme
+gtk-theme-glossyblack
+
+# internet radio
+radiotray-ng-git
 
 # visualisation
 projectm-git
